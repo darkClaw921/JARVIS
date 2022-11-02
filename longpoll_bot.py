@@ -1,3 +1,4 @@
+
 from simple_bot import Bot  # базовый класс бота из файла simple_bot
 
 from vk_api.longpoll import VkLongPoll, VkEventType  # использование VkLongPoll и VkEventType

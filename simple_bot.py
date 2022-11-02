@@ -1,3 +1,4 @@
+
 # Документация библиотеки vk_api: https://github.com/python273/vk_api
 # Официальная документация VK API по разделу сообщений: https://vk.com/dev/messages
 # Получить токен: https://vkhost.github.io/
